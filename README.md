@@ -80,3 +80,5 @@ python checker.py <input_file> <solution_file>
     ```sh
     python checker.py src/main/resources/instances/instance_001.txt output/instance_001.txt
     ```
+# Desafio-MeLi
+Criado para fornecer o código solicitado pelos organizadores do Desafio 
